@@ -83,7 +83,8 @@ A música "Night" de Muroni Slick (eu) abrir uma coletânea assinada pelo KL Jay
 
 _"Diferente de um caderno temático comum, este repositório conta com a perspectiva de quem viveu a cena. Participei da última coletânea oficial produzida pelo DJ KL Jay em parceria com a Rádio 105 FM (Distribuída pela Atração Fonográfica). Minha faixa, 'Night', foi escolhida para abrir o disco (Faixa 01), dividindo o álbum com ícones como Sombra, Tiu Fresh, Detentos do Rap, Relatos da Invasão e Cagebe."_
 
-6. Prompts Reutilizáveis (Refinados para o NotebookLM)
+6. Prompts Reutilizáveis (Refinados para o NotebookLM):
+   
 _"Compare as letras dos Racionais MC's (anos 90) com as de Djonga (anos 10) em termos de crítica social."_
 _"Explique o impacto do funk paulista na sonoridade do Trap brasileiro atual."_
 _"Liste 5 álbuns essenciais para entender o rap feminino no Brasil, justificando a escolha."_
