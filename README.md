@@ -93,7 +93,5 @@ _"Explique como o programa Espaço Rap da 105 FM influenciou o mercado fonográf
 _"Quais as principais diferenças estéticas entre o Rap de SP (Racionais) e o Rap de Brasília (DJ Jamaika) na década de 90?"_
 
 ### Lições aprendidas:
-A IA inicialmente focou no mainstream paulista e que você precisou reorientar o modelo para incluir o Rap do DF, a importância das rádios FM e grupos fundamentais como Face da Morte, DMN, Consciência Humana, Facção Central, RPW, Potencial 3 e outros nomes importantes da cena do rap nacional.
+A IA inicialmente focou no mainstream paulista, precisei reorientar o modelo para incluir o Rap do DF, a importância das rádios FM e grupos fundamentais como Face da Morte, DMN, Consciência Humana, Facção Central, RPW, Potencial 3 e outros nomes importantes da cena do rap nacional.
 Mesmo reorientando o modelo, a IA ocultou os grupos pilares para o desenvolvimento da Hip-Hop brasileiro.
-
-
