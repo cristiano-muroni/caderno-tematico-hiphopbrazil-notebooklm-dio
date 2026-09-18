@@ -75,7 +75,7 @@ Grave de Brasília: Sonoridade característica do DF, com sub-graves potentes in
 Difusora: O papel das rádios FM em furar a bolha da grande mídia e levar o Rap aos presídios, quebradas e carros de som.
 
 5. Fiz parte da História:
-A Era das Coletâneas: Explique que antes do streaming, as coletâneas de rádio (como as da 105 FM) eram o "algoritmo" da época. Elas validavam novos talentos e mantinham os veteranos no topo.
+A Era das Coletâneas: Antes do streaming, as coletâneas de rádio (como as da 105 FM) eram o "algoritmo" da época. Elas validavam novos talentos e mantinham os veteranos no topo.
      
 O Selo de Qualidade KL Jay: Ter a produção assinada por um Racionais MC's significava um rigor técnico e uma estética urbana autêntica (o "cheiro da rua"). 
 
